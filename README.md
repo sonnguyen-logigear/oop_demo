@@ -1,1 +1,2 @@
-# oop_demo
+# This is demo application
+#Java
